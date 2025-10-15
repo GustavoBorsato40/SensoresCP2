@@ -1,4 +1,4 @@
-# SensoresCP2
+# Sensores CP2, Edge Computing
 
 Projeto IoT Vinheria Agnello (FIWARE + ESP32)
 
